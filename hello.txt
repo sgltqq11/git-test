@@ -1,5 +1,5 @@
-hello git git git
-hello spring spring spring
+hello git git
+hello spring spring
 hello springmvc
 hello springsecurity
 hello sgl
