@@ -4,3 +4,4 @@ hello springmvc
 hello springsecurity
 hello sgl  --master test 
 hello tqq --hot-fix test
+hello SPRINGCLOUD
